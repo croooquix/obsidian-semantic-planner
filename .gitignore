@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# build output
+main.js
+
+# local plugin data (personal anchors and settings)
+data.json
+
+# editor / OS
+.DS_Store
+*.log

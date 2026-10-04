@@ -1,0 +1,24 @@
+{
+  "name": "obsidian-semantic-planner",
+  "version": "1.0.0",
+  "description": "Organize your notes into semantic canvas columns based on custom anchors.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "keywords": [],
+  "author": "NolyMoon",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "builtin-modules": "^3.3.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.5.0",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.15.0"
+  }
+}

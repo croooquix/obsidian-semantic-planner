@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-semantic-planner",
+  "name": "Semantic Planner",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Organize your notes into semantic canvas columns based on custom anchors.",
+  "author": "NolyMoon",
+  "authorUrl": "https://github.com/croooquix",
+  "isDesktopOnly": true
+}
